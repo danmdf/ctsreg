@@ -96,7 +96,6 @@ class CompressedTSRegression:
         Parameters
         ----------
         X : scipy.sparse matrix of shape (T, D)
-            Training data.
         exog : numpy array of shape (T, D')
         y : numpy array of shape (T, 1)
 
