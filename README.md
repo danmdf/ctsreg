@@ -1,4 +1,4 @@
-# Compressed Time Series Regression (v 0.1)
+# Compressed Time Series Regression (version 0.1)
 
 CompressedTSRegression estimates recursively a compressed linear 
 switching state space model for a univariate target time series `y` given 
